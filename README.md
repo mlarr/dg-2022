@@ -1,5 +1,5 @@
 # dg-2022
-Objetivo
+Objetivo-
 Seleccionar una causa social la cual será el motivador para un festival
 musical.
 Diseñar la identidad visual del festival teniendo relación conceptual y
